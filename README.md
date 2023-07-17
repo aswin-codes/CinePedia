@@ -2,9 +2,7 @@ Working Video
 https://github.com/aswin-codes/CinePedia/assets/84138186/e0cf8649-0f00-4137-8e26-9bd847b80133
 \nScreen Shots
 ![Screenshot 2023-07-17 230719](https://github.com/aswin-codes/CinePedia/assets/84138186/57711af4-cf49-4b14-b46a-24727db07a8b)
-![Uploading Screenshot 2023-07-17 230700.png…]()
-
-
+![Screenshot 2023-07-17 230700](https://github.com/aswin-codes/CinePedia/assets/84138186/f4ad216f-31cd-426d-8e6a-2156ae10f120)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 

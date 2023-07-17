@@ -1,6 +1,6 @@
 Working Video 
 https://github.com/aswin-codes/CinePedia/assets/84138186/e0cf8649-0f00-4137-8e26-9bd847b80133
-\nScreen Shots
+Screen Shots
 ![Screenshot 2023-07-17 230719](https://github.com/aswin-codes/CinePedia/assets/84138186/57711af4-cf49-4b14-b46a-24727db07a8b)
 ![Screenshot 2023-07-17 230700](https://github.com/aswin-codes/CinePedia/assets/84138186/f4ad216f-31cd-426d-8e6a-2156ae10f120)
 

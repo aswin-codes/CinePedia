@@ -10,6 +10,7 @@ import React, {useEffect, useState, useLayoutEffect} from 'react';
 import {useNavigation} from '@react-navigation/native';
 import BackButton from './Components/BackButton';
 import Rated from './Components/Rated';
+import * as Progress from 'react-native-progress'
 
 const DetailsScreen = ({route}) => {
   const [data, setData] = useState({});
@@ -39,6 +40,7 @@ const DetailsScreen = ({route}) => {
   }, [navigation]);
   return (
     <View style={styles.body}>
+      
       {data.imdbRating  ? (
         <>
           <View style={styles.backButton}>
@@ -98,7 +100,10 @@ const DetailsScreen = ({route}) => {
             <View style={{height: 50}}></View>
           </ScrollView>
         </>
-      ) : <Text style={{marginTop: 50, color: 'red', textAlign: 'center'}}> Loading...</Text>}
+      ) : <View style={{marginTop: 100, alignItems: 'center'}}>
+      <Progress.Circle fill='white' indeterminate={true} borderWidth={5} size={50} />
+      </View>}
+      
     </View>
   );
 };

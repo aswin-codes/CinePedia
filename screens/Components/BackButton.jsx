@@ -4,7 +4,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 
 const BackButton = () => {
   return <View style={styles.container}>
-    <Icon name='arrow-back-ios' size={24}/>
+    <Icon name='arrow-back-ios' size={24} color='white'/>
   </View>;
 };
 
